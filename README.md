@@ -3,4 +3,4 @@
 백엔드 서버 구현 연습
 - koa framework
 - mongodb
-- jwt
+- jwt(token 시도)
